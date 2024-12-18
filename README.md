@@ -12,6 +12,8 @@ This project aims to classify individuals based on their use of face masks into 
 
 The project was implemented using computer vision techniques and machine learning models. It leverages Convolutional Neural Networks (CNNs), feature extraction methods like HOG and SIFT, and classifiers such as Artificial Neural Networks (ANN) and Support Vector Machines (SVM). Additionally, the models were tested in real-time using video input.
 
+
+
 Features
 
 Image Classification: Detects the presence and correctness of face mask usage in images.
@@ -29,6 +31,8 @@ HOG and SIFT with SVM for feature-based classification.
 
 Video Integration: Uses OpenCV to process video input and provide live feedback.
 
+
+
 Technologies Used
 
 Frameworks and Libraries:
@@ -41,11 +45,13 @@ Scikit-Learn: For implementing SVM and feature-based classifiers.
 
 NumPy, Pandas: For data manipulation and preprocessing.
 
+
 Feature Extraction:
 
 HOG (Histogram of Oriented Gradients)
 
 SIFT (Scale-Invariant Feature Transform)
+
 
 
 Results
